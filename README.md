@@ -1,5 +1,3 @@
 # christian_devops
-update for quest
-Alternative work project
-for quest oil group
-tiredness of job
+This christians tutorial lessons
+As a devop engineer, do i need a programming knowledege
